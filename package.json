@@ -1,0 +1,10 @@
+{
+  "name": "fxa_content_server",
+  "version": "1.0.0",
+  "description": "fxa content server able experiments",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannycoates/able-fxa-content-server.git"
+  },
+  "license": "MPL 2.0"
+}
